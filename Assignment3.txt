@@ -1,0 +1,5 @@
+1) Does ANSI recognize the data type DATE? 
+  Ans = Yes , SQL comes under the ANSI . So DATE is recognize under ANSI.
+
+2) Which subdivision of SQL is used to insert values in tables? 
+  Ans= Data Manipulation Language (DML).
